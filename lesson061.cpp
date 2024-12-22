@@ -41,6 +41,17 @@ int main() {
 	//unsigned char distance{ 555u };
 	//unsigned int game_score{ -20 };
 
+	unsigned int hex_number{ 0x22BU };
+	int hex_number2{ 0x400 };
+	cout << "The hex number is : " << hex_number << endl;
+	cout << "The hex number2 is : " << hex_number2 << endl;
+
+	int black_color{ 0xffffff };
+	cout << "Black color is : " << black_color << endl;
+
+
+
+
 
 	return 0;
 }
