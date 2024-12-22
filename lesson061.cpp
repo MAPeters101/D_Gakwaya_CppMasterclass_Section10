@@ -49,6 +49,13 @@ int main() {
 	int black_color{ 0xffffff };
 	cout << "Black color is : " << black_color << endl;
 
+	cout << std:: hex << "The hex number is : " << hex_number << endl;
+	cout << "The hex number2 is : " << hex_number2 << endl;
+	cout << "Black color is : " << black_color << endl;
+
+	cout << std::dec << "The hex number is : " << hex_number << endl;
+	cout << "The hex number2 is : " << hex_number2 << endl;
+	cout << "Black color is : " << black_color << endl;
 
 
 
