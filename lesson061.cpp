@@ -35,6 +35,11 @@ int main() {
 
 	cout << "signed_long_long_int : " << signed_long_long_int << endl;
 
+	//unsigned char distance{ 555u };
+	//unsigned int game_score{ -20 };
+
+	//unsigned char distance{ 555u };
+	//unsigned int game_score{ -20 };
 
 
 	return 0;
