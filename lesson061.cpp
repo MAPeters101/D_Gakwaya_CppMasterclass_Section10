@@ -57,7 +57,13 @@ int main() {
 	cout << "The hex number2 is : " << hex_number2 << endl;
 	cout << "Black color is : " << black_color << endl;
 
+	int octal_number{ 0777u };
+	cout << "The octal number is : " << octal_number << endl;
+	int error_octal{ 055 };
+	cout << "The erronous octal number is : " << error_octal << endl;
 
+	unsigned int binary_literal{ 0b11111111u };
+	cout << "The binary literal is : " << binary_literal << endl;
 
 
 	return 0;
