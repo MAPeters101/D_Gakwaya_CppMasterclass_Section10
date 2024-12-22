@@ -2,6 +2,7 @@
 
 using namespace std;
 
+/*
 int main() {
 	unsigned char unsigned_char{ 53u };
 
@@ -65,7 +66,16 @@ int main() {
 	unsigned int binary_literal{ 0b11111111u };
 	cout << "The binary literal is : " << binary_literal << endl;
 
+	char char_literal{ 'c' };
+	int number_literal{ 15 };
+	float fractional_literal{ 1.5f };
+	string string_literal{ "Hit the road" };
+
+	cout << "The char literal is : " << char_literal << endl;
+	cout << "The number literal is : " << number_literal << endl;
+	cout << "The fractional literal is : " << fractional_literal << endl;
+	cout << "The string literal is : " << string_literal << endl;
 
 	return 0;
 }
-
+*/
